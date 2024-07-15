@@ -46,12 +46,3 @@ CONST DAYANE = {
     <img src="https://skillicons.dev/icons?i=react,nodejs,linux,redux,docker" />
   </a>
 </p>
-
-### Minhas redes
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin" href="https://linkedin.com/in/Dayane-pereira" target="_blank" alt="dayanepereira"/>
-    <img src="https://skillicons.dev/icons?i=instagram" href="https://instagram.com/iamdayanep" target="_blank" alt="dayanepereira"/>
-    <img src="https://skillicons.dev/icons?i=gmail" href = "mailto:pdayane2734@gmail.com" target="_blank" alt="dayanepereira"/>
-  </a>
